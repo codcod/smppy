@@ -1,1 +1,2 @@
-smpppdu
+git+https://github.com/codcod/smppy-pdu@master
+smpplib
